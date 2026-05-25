@@ -1,0 +1,9 @@
+# 1. Hide our secrets and API keys
+.env
+
+# 2. Hide the giant virtual environment folder (no need to upload this)
+ig_bot_env/
+
+# 3. Hide Python cache files
+__pycache__/
+*.pyc
